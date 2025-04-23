@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "pdf-lib-test": "node pdf-lib-test.js"
   },
   "dependencies": {
     "node-pdftk": "^2.1.3",
